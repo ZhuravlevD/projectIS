@@ -5,14 +5,7 @@
 
 Шахтёр добывает руду
 
-<style>
-</style>
-</head>
-<body>
-<img border="0" src="./Ramus - projectIS/lb1/IDF0.png" alt="Шесть вопросов">
-<br><br><br><br>
-
-</body></html>
+![Image alt](https://github.com/ZhuravlevD/projectIS/raw/lb1/IDF0.png)
 
 Рисунок прямо здесь (выгруженный из РАМУС, выгруженный или созданный "на лету" в PLANTUML)
 
