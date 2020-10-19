@@ -1,14 +1,20 @@
-# sourceMappingURL=../sourcemaps/inpage.js.map
-# sourceURL=chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/inpage.js
-</script><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Шесть вопросов (Версия для печати)Ramus - sixq.rsf </title>
+# Отчет о лабораторных работах
+# студент группы [ИДБ-15-ХХ](https://github.com/stankin/design-2018/wiki/list-idb-15-xx) Фамилия И.О.
 
-<style>
-</style>
-</head>
-<body>
-<img border="0" src="./Ramus - sixq.rsf_files/model.png" alt="Шесть вопросов">
-<br><br><br><br>
+## Лабораторная 1
 
+Текст с постановкой задачи
 
-</body></html>
+Рисунок прямо здесь (выгруженный из РАМУС, выгруженный или созданный "на лету" в PLANTUML)
+
+Ссылки на доп.материалы
+
+## Лабораторная 2
+
+## Лабораторная 3
+
+## Лабораторная 4
+
+## Лабораторная 5
+
+## Лабораторная 6
