@@ -9,7 +9,7 @@
 </style>
 </head>
 <body>
-<img border="0" src="./Ramus - sixq.rsf_files/IDF0.png" alt="Шесть вопросов">
+<img border="0" src="./Ramus - projectIS/lb1/IDF0.png" alt="Шесть вопросов">
 <br><br><br><br>
 
 </body></html>
