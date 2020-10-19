@@ -5,7 +5,7 @@
 
 Шахтёр добывает руду
 
-![Image alt](https://github.com/ZhuravlevD/projectIS/raw/lb1/IDF0.png)
+![Image alt](https://github.com/ZhuravlevD/projectIS/blob/main/lb1/IDF0.PNG)
 
 Рисунок прямо здесь (выгруженный из РАМУС, выгруженный или созданный "на лету" в PLANTUML)
 
