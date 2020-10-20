@@ -3,11 +3,15 @@
 
 ## Лабораторная 1
 
-Шахтёр добывает руду
+Шахтёр добывает руду.
 
 ![Image alt](https://github.com/ZhuravlevD/projectIS/blob/main/lb1/IDF0.PNG)
 
-Шахтёр должен добыть руду в соответствии с заказом, используя кирку и шахту
+Шахтёр должен добыть руду в соответствии с заказом, используя кирку и шахту.
+
+Диаграмма классов:
+
+![Image alt](https://github.com/ZhuravlevD/projectIS/blob/main/lb1/uml.png)
 
 
 
