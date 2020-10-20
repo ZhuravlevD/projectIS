@@ -13,7 +13,9 @@
 
 ![Image alt](https://github.com/ZhuravlevD/projectIS/blob/main/lb1/uml.png)
 
+Диаграмма прецедентов:
 
+![Image alt](https://github.com/ZhuravlevD/projectIS/blob/main/lb1/usecase.png)
 
 ## Лабораторная 2
 
