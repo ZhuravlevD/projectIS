@@ -25,7 +25,7 @@ IDF0 диаграмма:
 
 Подуровень IDF0 диаграммы:
 
-
+![Image alt](https://github.com/ZhuravlevD/projectIS/blob/main/lb2/2mod.PNG)
 ## Лабораторная 3
 
 ## Лабораторная 4
