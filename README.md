@@ -19,6 +19,9 @@
 
 ## Лабораторная 2
 
+IDF0 диаграмма:
+
+![Image alt](https://github.com/ZhuravlevD/projectIS/blob/main/lb2/1mod.PNG)
 ## Лабораторная 3
 
 ## Лабораторная 4
