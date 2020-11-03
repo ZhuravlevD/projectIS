@@ -33,7 +33,7 @@ DFD диаграмма:
 
 Диаграмма прецедентов:
 
-![Image alt](https://github.com/ZhuravlevD/projectIS/blob/main/lb2/uml1.PNG)
+![Image alt](https://github.com/ZhuravlevD/projectIS/blob/main/lb2/uml1.png)
 ## Лабораторная 3
 
 ## Лабораторная 4
