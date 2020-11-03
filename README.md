@@ -28,6 +28,8 @@ IDF0 диаграмма:
 ![Image alt](https://github.com/ZhuravlevD/projectIS/blob/main/lb2/2mod.PNG)
 
 DFD диаграмма:
+
+![Image alt](https://github.com/ZhuravlevD/projectIS/blob/main/lb2/3mod.PNG)
 ## Лабораторная 3
 
 ## Лабораторная 4
