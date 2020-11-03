@@ -30,6 +30,10 @@ IDF0 диаграмма:
 DFD диаграмма:
 
 ![Image alt](https://github.com/ZhuravlevD/projectIS/blob/main/lb2/3mod.PNG)
+
+Диаграмма прецедентов:
+
+![Image alt](https://github.com/ZhuravlevD/projectIS/blob/main/lb2/1uml.PNG)
 ## Лабораторная 3
 
 ## Лабораторная 4
