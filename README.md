@@ -44,7 +44,7 @@
 
 ## ER-диаграмма:
 
-![Рисунок](https://github.com/ZhuravlevD/projectIS/blob/main/lb3/er.png)
+![Image alt](https://github.com/ZhuravlevD/projectIS/blob/main/lb3/er.png)
 
 Заказ - это запись в базе данных, которая относится к информационным потокам, и состоит из: типа руды, кол-ва руды и срока её добычи.
 ## Лабораторная 4
