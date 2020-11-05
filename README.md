@@ -36,6 +36,10 @@ DFD диаграмма:
 ![Image alt](https://github.com/ZhuravlevD/projectIS/blob/main/lb2/uml1.png)
 ## Лабораторная 3
 
+Диаграмма последовательности:
+
+ER-диаграмма:
+
 ## Лабораторная 4
 
 ## Лабораторная 5
