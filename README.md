@@ -41,6 +41,7 @@ DFD диаграмма:
 ![Image alt](https://github.com/ZhuravlevD/projectIS/blob/main/lb3/uml2.png)
 
 Штейгер выкладывает подробный заказ (с указанием типа руды, количества руды и срока её добычи). Затем шахтер, используя своё приложение подтверждает заказ и начинает его выполнение.
+
 ER-диаграмма:
 
 ![Image alt](https://github.com/ZhuravlevD/projectIS/blob/main/lb3/er.png)
