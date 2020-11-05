@@ -37,13 +37,15 @@
 ## Лабораторная 3
 
 ## Диаграмма последовательности:
+[Текст](https://github.com/ZhuravlevD/projectIS/blob/main/lb3/text1.txt) и [рисунок](https://github.com/ZhuravlevD/projectIS/blob/main/lb3/uml2.png) диаграммы последовательности.
 
 ![Image alt](https://github.com/ZhuravlevD/projectIS/blob/main/lb3/uml2.png)
 
 Штейгер выкладывает подробный заказ (с указанием типа руды, количества руды и срока её добычи). Затем шахтер, используя своё приложение подтверждает заказ и начинает его выполнение.
 
 ## ER-диаграмма:
-[text](https://github.com/ZhuravlevD/projectIS/blob/main/lb3/text1.txt)
+[Текст](https://github.com/ZhuravlevD/projectIS/blob/main/lb3/text2.txt) и [рисунок](https://github.com/ZhuravlevD/projectIS/blob/main/lb3/er.png) er-диаграммы.
+
 ![Image alt](https://github.com/ZhuravlevD/projectIS/blob/main/lb3/er.png)
 
 Заказ - это запись в базе данных, которая относится к информационным потокам, и состоит из: типа руды, кол-ва руды и срока её добычи.
