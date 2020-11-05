@@ -19,15 +19,15 @@
 
 ## Лабораторная 2
 
-##IDF0 диаграмма:
+## IDF0 диаграмма:
 
 ![Image alt](https://github.com/ZhuravlevD/projectIS/blob/main/lb2/1mod.PNG)
 
-##Подуровень IDF0 диаграммы:
+## Подуровень IDF0 диаграммы:
 
 ![Image alt](https://github.com/ZhuravlevD/projectIS/blob/main/lb2/2mod.PNG)
 
-##DFD диаграмма:
+## DFD диаграмма:
 
 ![Image alt](https://github.com/ZhuravlevD/projectIS/blob/main/lb2/3mod.PNG)
 
@@ -36,13 +36,13 @@
 ![Image alt](https://github.com/ZhuravlevD/projectIS/blob/main/lb2/uml1.png)
 ## Лабораторная 3
 
-##Диаграмма последовательности:
+## Диаграмма последовательности:
 
 ![Image alt](https://github.com/ZhuravlevD/projectIS/blob/main/lb3/uml2.png)
 
 Штейгер выкладывает подробный заказ (с указанием типа руды, количества руды и срока её добычи). Затем шахтер, используя своё приложение подтверждает заказ и начинает его выполнение.
 
-##ER-диаграмма:
+## ER-диаграмма:
 
 ![Image alt](https://github.com/ZhuravlevD/projectIS/blob/main/lb3/er.png)
 
