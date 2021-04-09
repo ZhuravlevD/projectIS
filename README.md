@@ -12,7 +12,7 @@
 
 **Процессы верхнего уровня:** [✋](https://github.com/stankin/design-part-2/wiki/sem1)
 * **А1** Сбор данных о состояниях оборудования и производственных процессов
-* **А2** Систематизация данных о состояниях оборудования и производственных процессов
+* **А2** Систематизация и анализ данных о состояниях оборудования и производственных процессов
 * **А3** Запись данных о состояниях оборудования и производственных процессов
 
 
@@ -22,19 +22,25 @@
 
 ### 2. Функциональное моделирование процессов (IDEF0) [✋](https://github.com/stankin/design-part-2/wiki/LR-1)
 
-* A-0 (контекстная диаграмма)
+* A-0 
 
 ![A-0](https://github.com/ZhuravlevD/projectIS/blob/main/scr/A0.PNG)
 
-* A0 (диаграмма верхнего уровня)
+* A0 
 
-![A0](myrep\a0.jpg)
+![A0](https://github.com/ZhuravlevD/projectIS/blob/main/scr/1A0.PNG)
 
-* A3 (декомпозиция процесса/процессов внутренней среды)
+* A1 
 
-![A3](myrep\a3.jpg)
+![A0](https://github.com/ZhuravlevD/projectIS/blob/main/scr/A1.PNG)
 
-...
+* A2 
+
+![A0](https://github.com/ZhuravlevD/projectIS/blob/main/scr/A2.PNG)
+
+* A3 
+
+![A0](https://github.com/ZhuravlevD/projectIS/blob/main/scr/A3.PNG)
 
 ### 3. Функциональное моделирование программных и информационных средств (DFD) [✋](https://github.com/stankin/design-part-2/wiki/LR-2)
 
