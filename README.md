@@ -24,7 +24,7 @@
 
 * A-0 (контекстная диаграмма)
 
-![A-0](myrep\a-0.jpg)
+![A-0](https://github.com/ZhuravlevD/projectIS/blob/main/scr/A0.PNG)
 
 * A0 (диаграмма верхнего уровня)
 
