@@ -30,15 +30,15 @@
 
 ![A0](https://github.com/ZhuravlevD/projectIS/blob/main/scr/1A0.PNG)
 
-* A1 
+* Декомпозиция A1 
 
 ![A0](https://github.com/ZhuravlevD/projectIS/blob/main/scr/A1.PNG)
 
-* A2 
+* Декомпозиция A2 
 
 ![A0](https://github.com/ZhuravlevD/projectIS/blob/main/scr/A2.PNG)
 
-* A3 
+* Декомпозиция A3 
 
 ![A0](https://github.com/ZhuravlevD/projectIS/blob/main/scr/A3.PNG)
 
