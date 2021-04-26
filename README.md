@@ -52,15 +52,15 @@
 
 * A22 Автоматизация процесса А22
 
-![22](https://github.com/ZhuravlevD/projectIS/blob/main/scr/A22.PNG)
+![22](https://github.com/ZhuravlevD/projectIS/blob/main/scr/А22.PNG)
 
 * A23 Автоматизация процесса А23
 
-![A32](https://github.com/ZhuravlevD/projectIS/blob/main/scr/A23.PNG)
+![A32](https://github.com/ZhuravlevD/projectIS/blob/main/scr/А23.PNG)
 
 * A31 Автоматизация процесса А31
 
-![A32](https://github.com/ZhuravlevD/projectIS/blob/main/scr/A31.PNG)
+![A32](https://github.com/ZhuravlevD/projectIS/blob/main/scr/А31.PNG)
 
 ### 4. Описание выбранного процесса [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате прецедента (Use Case) [✋](https://github.com/stankin/design-part-2/wiki/LR-4)
 
