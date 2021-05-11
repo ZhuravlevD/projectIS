@@ -126,7 +126,7 @@
 * **ER-диаграмма ролей:**
 ![p5](https://github.com/ZhuravlevD/projectIS/blob/main/scr/Er-role.png)
 * **ER-диаграмма модулей:**
-![p5](https://github.com/ZhuravlevD/projectIS/blob/main/scr/Er-mode.png)
+![p5](https://github.com/ZhuravlevD/projectIS/blob/main/scr/Er-mod.png)
 
 ### 6. Описание алгоритма [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате UML (Sequence) [✋](https://github.com/stankin/design-part-2/wiki/LR-6)
 
