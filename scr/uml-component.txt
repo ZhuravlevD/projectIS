@@ -1,0 +1,15 @@
+@startuml
+skinparam monochrome true
+
+component [БД для хранения и анализа состояний оборудования и пп] as DB
+component [Приложение для работы с БД] as IS
+component [Устройства отображения информации] as HMD
+
+() "LAN" as L
+() "Файловая система ПК" as File
+
+DB - File
+File - IS
+IS - L
+L - HMD
+@enduml
