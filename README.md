@@ -53,11 +53,11 @@
 
 * A32 Автоматизация процесса А32
 
-![32](https://github.com/ZhuravlevD/projectIS/blob/main/scr/A32.PNG)
+![32](https://github.com/ZhuravlevD/projectIS/blob/main/scr/А32.PNG)
 
 * A33 Автоматизация процесса А33
 
-![A33](https://github.com/ZhuravlevD/projectIS/blob/main/scr/A33.PNG)
+![A33](https://github.com/ZhuravlevD/projectIS/blob/main/scr/А33.PNG)
 
 * A4 Автоматизация процесса А4
 
