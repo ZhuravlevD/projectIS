@@ -143,7 +143,7 @@
 
 ### 8. Демонстрация реализации (личная страница)
 
-https://zhuravlevd.github.io/Zhuravlev-student-page/#!/topics
+* Личная страница на [Github](https://zhuravlevd.github.io/Zhuravlev-student-page/#!/topics)
 
 ### 9. Подготовка к интерпретации построенных моделей
 
