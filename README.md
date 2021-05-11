@@ -193,7 +193,7 @@
 **10.1 Определение числовых показателей для поставленной цели моделирования:**
 
 Определение процессов требующих повышения качества
-![p5](https://github.com/ZhuravlevD/projectIS/blob/main/scr/Процессы.png)
+![p5](https://github.com/ZhuravlevD/projectIS/blob/main/scr/Процессы.PNG)
 
 Способ получения: извлечение из диаграмм IDEF0 и DFD.
 
