@@ -130,10 +130,9 @@
 
 ### 6. Описание алгоритма [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате UML (Sequence) [✋](https://github.com/stankin/design-part-2/wiki/LR-6)
 
-* **Описываемые процессы и потоки данных:** ???
-
-* **Диаграмма UML Sequence:**
-![p6](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/<user/user.github.io/master/<path><file>)
+* **Описываемые процессы и потоки данных:** Создание БД, обработка и анализ данных, проверка корректности данных, заполнение БД, Отоброжание данных в приложении
+* [Диаграмма UML Sequence:](https://github.com/ZhuravlevD/projectIS/blob/main/scr/uml-sequence.txt):
+![p5](https://github.com/ZhuravlevD/projectIS/blob/main/scr/uml-sequence.png)
 
 ### 7. Описание состава [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате UML (Component) [✋](https://github.com/stankin/design-part-2/wiki/LR-7)
 
