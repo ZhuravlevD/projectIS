@@ -121,10 +121,12 @@
 
 ### 5. Описание структуры объекта [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате ERD (Class) [✋](https://github.com/stankin/design-part-2/wiki/LR-5)
 
-* **Описываемый объект:** <программа, модуль, сообщение, база данных...>
+* **Описываемый объект:** описание ролей, модулей приложения для работы с БД для хранения и анализа данных о состоянии оборудования и производственных процессов
 
-* **Диаграмма UML Class:**
-![p5](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/<user/user.github.io/master/<path><file>)
+* **ER-диаграмма ролей:**
+![p5](https://github.com/ZhuravlevD/projectIS/blob/main/scr/Er-role.PNG)
+* **ER-диаграмма модулей:**
+![p5](https://github.com/ZhuravlevD/projectIS/blob/main/scr/Er-mode.PNG)
 
 ### 6. Описание алгоритма [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате UML (Sequence) [✋](https://github.com/stankin/design-part-2/wiki/LR-6)
 
