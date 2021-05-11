@@ -123,9 +123,9 @@
 
 * **Описываемый объект:** описание ролей, модулей приложения для работы с БД для хранения и анализа данных о состоянии оборудования и производственных процессов
 
-* **ER-диаграмма ролей:**
+* [ER-диаграмма ролей](https://github.com/ZhuravlevD/projectIS/blob/main/scr/Er-role.txt):
 ![p5](https://github.com/ZhuravlevD/projectIS/blob/main/scr/Er-role.png)
-* **ER-диаграмма модулей:**
+* [ER-диаграмма модулей](https://github.com/ZhuravlevD/projectIS/blob/main/scr/Er-mod.txt)
 ![p5](https://github.com/ZhuravlevD/projectIS/blob/main/scr/Er-mod.png)
 
 ### 6. Описание алгоритма [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате UML (Sequence) [✋](https://github.com/stankin/design-part-2/wiki/LR-6)
