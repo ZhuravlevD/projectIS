@@ -65,8 +65,8 @@
 
 ### 4. Описание выбранного процесса [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате прецедента (Use Case) [✋](https://github.com/stankin/design-part-2/wiki/LR-4)
 
-Диаграмма UML Use Case
-![p4](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/<user/user.github.io/master/<path><file>)
+* [Диаграмма UML Use Case:](https://github.com/ZhuravlevD/projectIS/blob/main/scr/usecase.txt):
+![p5](https://github.com/ZhuravlevD/projectIS/blob/main/scr/usecase.png)
 
 **4.1 Идентификатор прецедента:** A2
 
