@@ -25,23 +25,27 @@
 
 * A-0 
 
-![A-0](https://github.com/ZhuravlevD/projectIS/blob/main/scr/A0.PNG)
+![A-0](https://github.com/ZhuravlevD/projectIS/blob/main/scr1/A0.PNG)
 
 * A0 
 
-![A0](https://github.com/ZhuravlevD/projectIS/blob/main/scr/1A0.PNG)
-
-* Декомпозиция A1 
-
-![A0](https://github.com/ZhuravlevD/projectIS/blob/main/scr/A1.PNG)
+![A0](https://github.com/ZhuravlevD/projectIS/blob/main/scr1/1A0.PNG)
 
 * Декомпозиция A2 
 
-![A0](https://github.com/ZhuravlevD/projectIS/blob/main/scr/A2.PNG)
+![A0](https://github.com/ZhuravlevD/projectIS/blob/main/scr1/A2.PNG)
 
 * Декомпозиция A3 
 
-![A0](https://github.com/ZhuravlevD/projectIS/blob/main/scr/A3.PNG)
+![A0](https://github.com/ZhuravlevD/projectIS/blob/main/scr1/A3.PNG)
+
+* Декомпозиция A4 
+
+![A0](https://github.com/ZhuravlevD/projectIS/blob/main/scr1/A4.PNG)
+
+* Декомпозиция A5
+
+![A0](https://github.com/ZhuravlevD/projectIS/blob/main/scr1/A5.PNG)
 
 ### 3. Функциональное моделирование программных и информационных средств (DFD) [✋](https://github.com/stankin/design-part-2/wiki/LR-2)
 
@@ -51,17 +55,14 @@
 
 **Допустимые виды хранилищ и их размещение:** реляционная база данных MySQL
 
-* A32 Автоматизация процесса А32
+* A43 Автоматизация процесса А43
 
-![32](https://github.com/ZhuravlevD/projectIS/blob/main/scr/А32.PNG)
+![A43](https://github.com/ZhuravlevD/projectIS/blob/main/scr1/А43.PNG)
 
-* A33 Автоматизация процесса А33
+* A51 Автоматизация процесса А51
 
-![A33](https://github.com/ZhuravlevD/projectIS/blob/main/scr/А33.PNG)
+![A51](https://github.com/ZhuravlevD/projectIS/blob/main/scr1/А51.PNG)
 
-* A4 Автоматизация процесса А4
-
-![A4](https://github.com/ZhuravlevD/projectIS/blob/main/scr/A4.PNG)
 
 ### 4. Описание выбранного процесса [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате прецедента (Use Case) [✋](https://github.com/stankin/design-part-2/wiki/LR-4)
 
