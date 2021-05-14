@@ -66,7 +66,7 @@
 
 ### 4. Описание выбранного процесса [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате прецедента (Use Case) [✋](https://github.com/stankin/design-part-2/wiki/LR-4)
 
-* [Диаграмма UML Use Case:](https://github.com/ZhuravlevD/projectIS/blob/main/scr/usecase.txt):
+* [Диаграмма UML Use Case:](https://github.com/ZhuravlevD/projectIS/blob/main/scr1/usecase.txt):
 ![p5](https://github.com/ZhuravlevD/projectIS/blob/main/scr1/usecase.png)
 
 **4.1 Идентификатор прецедента:** A5
@@ -122,13 +122,13 @@
 
 * [ER-диаграмма ролей](https://github.com/ZhuravlevD/projectIS/blob/main/scr/Er-role.txt):
 ![p5](https://github.com/ZhuravlevD/projectIS/blob/main/scr/Er-role.png)
-* [ER-диаграмма модулей](https://github.com/ZhuravlevD/projectIS/blob/main/scr/Er-mod.txt):
+* [ER-диаграмма модулей](https://github.com/ZhuravlevD/projectIS/blob/main/scr1/ermod.txt):
 ![p5](https://github.com/ZhuravlevD/projectIS/blob/main/scr1/ermod.png)
 
 ### 6. Описание алгоритма [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате UML (Sequence) [✋](https://github.com/stankin/design-part-2/wiki/LR-6)
 
 * **Описываемые процессы и потоки данных:** Создание БД, обработка и анализ данных, проверка корректности данных, заполнение БД, Отоброжание данных в приложении
-* [Диаграмма UML Sequence:](https://github.com/ZhuravlevD/projectIS/blob/main/scr/uml-sequence.txt):
+* [Диаграмма UML Sequence:](https://github.com/ZhuravlevD/projectIS/blob/main/scr1/uml-sequence.txt):
 ![p5](https://github.com/ZhuravlevD/projectIS/blob/main/scr1/uml-sequence.png)
 
 ### 7. Описание состава [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате UML (Component) [✋](https://github.com/stankin/design-part-2/wiki/LR-7)
