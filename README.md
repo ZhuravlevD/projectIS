@@ -25,27 +25,27 @@
 
 * A-0 
 
-![A-0](https://github.com/ZhuravlevD/projectIS/blob/main/scr1/01_A0.PNG)
+![A-0](https://github.com/ZhuravlevD/projectIS/blob/main/scr1/01_A0.png)
 
 * A0 
 
-![A0](https://github.com/ZhuravlevD/projectIS/blob/main/scr1/02_A0.PNG)
+![A0](https://github.com/ZhuravlevD/projectIS/blob/main/scr1/02_A0.png)
 
 * Декомпозиция A2 
 
-![A0](https://github.com/ZhuravlevD/projectIS/blob/main/scr1/03_A2.PNG)
+![A0](https://github.com/ZhuravlevD/projectIS/blob/main/scr1/03_A2.png)
 
 * Декомпозиция A3 
 
-![A0](https://github.com/ZhuravlevD/projectIS/blob/main/scr1/04_A3.PNG)
+![A0](https://github.com/ZhuravlevD/projectIS/blob/main/scr1/04_A3.png)
 
 * Декомпозиция A4 
 
-![A0](https://github.com/ZhuravlevD/projectIS/blob/main/scr1/05_A4.PNG)
+![A0](https://github.com/ZhuravlevD/projectIS/blob/main/scr1/05_A4.png)
 
 * Декомпозиция A5
 
-![A0](https://github.com/ZhuravlevD/projectIS/blob/main/scr1/06_A5.PNG)
+![A0](https://github.com/ZhuravlevD/projectIS/blob/main/scr1/06_A5.png)
 
 ### 3. Функциональное моделирование программных и информационных средств (DFD) [✋](https://github.com/stankin/design-part-2/wiki/LR-2)
 
