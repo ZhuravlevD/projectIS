@@ -45,7 +45,7 @@
 
 * Декомпозиция A5
 
-![A0](https://github.com/ZhuravlevD/projectIS/blob/main/scr1/06_A5.png)
+![A0](https://github.com/ZhuravlevD/projectIS/blob/main/scr1/07_A5.png)
 
 ### 3. Функциональное моделирование программных и информационных средств (DFD) [✋](https://github.com/stankin/design-part-2/wiki/LR-2)
 
@@ -57,7 +57,7 @@
 
 * A43 Автоматизация процесса А43
 
-![A43](https://github.com/ZhuravlevD/projectIS/blob/main/scr1/07_A43.png)
+![A43](https://github.com/ZhuravlevD/projectIS/blob/main/scr1/06_A43.png)
 
 * A51 Автоматизация процесса А51
 
