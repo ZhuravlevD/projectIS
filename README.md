@@ -57,11 +57,11 @@
 
 * A43 Автоматизация процесса А43
 
-![A43](https://github.com/ZhuravlevD/projectIS/blob/main/scr1/07_A43.PNG)
+![A43](https://github.com/ZhuravlevD/projectIS/blob/main/scr1/07_A43.png)
 
 * A51 Автоматизация процесса А51
 
-![A51](https://github.com/ZhuravlevD/projectIS/blob/main/scr1/08_A51.PNG)
+![A51](https://github.com/ZhuravlevD/projectIS/blob/main/scr1/08_A51.png)
 
 
 ### 4. Описание выбранного процесса [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате прецедента (Use Case) [✋](https://github.com/stankin/design-part-2/wiki/LR-4)
